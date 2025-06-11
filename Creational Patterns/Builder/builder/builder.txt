@@ -1,0 +1,6 @@
+Builder Design Pattern
+
+- it separates the construction of a complex object from its representation
+
+- Used when 1- creating the object is very complex
+            2- the created object will not be modified after the creation
