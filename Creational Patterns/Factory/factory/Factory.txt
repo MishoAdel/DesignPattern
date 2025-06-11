@@ -1,0 +1,12 @@
+Factory Design Pattern
+
+- Creates an object without exposing the creation logic to the client
+- when a class needs to instantiate a subclass of another class, but does not know which one
+
+- Used when 1- a class cannot anticipate the class of object it must create
+            2- a class want its subclasses to specify the object it creates
+            3- some of the responsibilities shift from one class to another
+
+- Three implementations 1- Abstract : creator is abstract class and there is subclass for each product
+                        2- Concrete : creator is concrete class and add implementation code based on a parameter based to creator
+                        3- Static : define a factory as a static method
