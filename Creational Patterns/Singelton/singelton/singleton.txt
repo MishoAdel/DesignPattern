@@ -1,0 +1,14 @@
+Singleton Design Pattern
+
+- Gives controlled access to instance
+
+- Used when you need one instance of the class
+
+- Use dependency injection instead of singleton when    1- static make test harder
+                                                        2- you have non-stable dependency
+
+- Can be implemented using  1- lazy instantiation : not thread safe
+                            2- synchronized method : thread safe used when performance is not critical
+                            3- double-checked locking : thread safe and good performance
+                            4- eager evaluation : do not use many resources and thread safe but instance is created when not using it
+                            5- build pugh approach : thread safe and instance created when needed
