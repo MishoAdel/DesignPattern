@@ -1,0 +1,11 @@
+Abstract Factory Design Pattern
+
+- Provides an interface for creating families of related or dependent objects without specifying their concrete type
+- Super factory the creates factories
+
+- Used when 1- a system should be independent of how its products are created, composed and represented
+            2- we need to deal with multiple factories
+            3- the problem domain has different families of objects present and each family is used under different circumstances
+            4- a family is designed to be used together, and you want ot enforce that rule
+
+- If many product families are possible implement using prototype DP
