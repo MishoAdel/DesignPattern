@@ -1,0 +1,6 @@
+Prototype Design Pattern
+
+- Creating duplicate object while keeping performance in mind
+
+- Used when 1- creating an object is costly
+            2- when wa want to make a copy of a document

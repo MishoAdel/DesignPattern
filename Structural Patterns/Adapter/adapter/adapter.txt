@@ -1,0 +1,7 @@
+Adapter Design Pattern
+
+- Works as a bridge between two incompatible interfaces
+
+- Used when 1- you want to use an existing class and its interface does not match the one you need
+            2- you want to create a reusable class that cooperates with unrelated or unforseen classes
+            3- when you use need to use several subclasses and it is impractical to adapt their interface by sub-classing every one
