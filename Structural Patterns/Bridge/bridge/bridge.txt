@@ -1,0 +1,6 @@
+Adapter Bridge Pattern
+
+- Decouples implementation class from abstract class by providing a bridge
+
+- Used when 1- the implementation must be selected or implemented at run-time
+            2- when both abstraction and implementation should be extensible by subclassing

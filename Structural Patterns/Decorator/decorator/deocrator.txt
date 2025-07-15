@@ -1,0 +1,5 @@
+Decorator Pattern
+
+- Provide a flexible alternative for sub-classing
+
+- Used when 1- you wany to add functionality to a particular object without disturbing existing objects

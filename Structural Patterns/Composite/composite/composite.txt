@@ -1,0 +1,6 @@
+Adapter Composite Pattern
+
+- Allows us to build structures of objects in the form of trees
+
+- Used when 1- you want to ignore the difference between compositions of object and individual objects
+            2- when you are worried about memory usage
