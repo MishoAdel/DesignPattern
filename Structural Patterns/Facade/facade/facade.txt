@@ -1,0 +1,6 @@
+Facade Design Pattern
+
+- Defines higher level interface that makes the sub-system easier to use and hides complexity of subsystem
+
+- Used when 1- yuo want to provide a simple interface to complex subsystem
+            2- you want to layer subsystems

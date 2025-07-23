@@ -1,4 +1,4 @@
-Adapter Composite Pattern
+Composite Pattern
 
 - Allows us to build structures of objects in the form of trees
 

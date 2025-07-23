@@ -1,0 +1,8 @@
+Proxy Design Pattern
+
+- Provides a placeholder for another object to control access to it
+
+- Used when 1- you need access control
+            2- when creation is expensive so you want it to be on demand
+            3- you need cache shared result
+            4- you need synchronization.

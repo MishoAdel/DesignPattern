@@ -1,4 +1,4 @@
-Adapter Bridge Pattern
+Bridge Pattern
 
 - Decouples implementation class from abstract class by providing a bridge
 

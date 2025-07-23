@@ -1,0 +1,6 @@
+Flyweight Design Pattern
+
+- Uses sharing to support a large number of fine-grained objects
+
+- Used when 1- An application uses large number of objects and storage costs are high
+            2- many groups of objects may be replaced by relatively few shared objects
