@@ -1,0 +1,5 @@
+Visitor Design Pattern
+
+- Presents an operation to be preformed on the elements of an object structure
+
+- Used when 1- object structure (collection or list) contains many classes of objects with differing interfaces

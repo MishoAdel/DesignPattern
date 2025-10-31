@@ -1,0 +1,6 @@
+State Design Pattern
+
+- Allows an object to alter its behaviour when it changes its state
+
+- Used when 1- object behaviour depends on state
+            2- operation have large multipart statements that depends on object state

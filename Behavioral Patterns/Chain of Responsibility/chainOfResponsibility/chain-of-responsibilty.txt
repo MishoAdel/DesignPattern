@@ -1,0 +1,4 @@
+Chain of Responsibility Design Pattern
+
+- Chain the receiving object and pass the request long the chain until an object handles it
+Used when : 1-

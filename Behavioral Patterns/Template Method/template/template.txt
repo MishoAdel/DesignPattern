@@ -1,0 +1,6 @@
+Template Method Design Pattern
+
+- Defines the skeleton of an algorithm in an operation, deferring some steps to subclasses
+
+- Used when 1- you want to support multiple algorithms that behave conceptually the same but have different implementation for each of their steps
+            2- you want to avoid code duplication in an algorithm

@@ -1,0 +1,5 @@
+Mediator Design Pattern
+
+- It is the one who takes the responsibility of communication among a group of objects
+
+- Used when 1- you need to centralize communication between related objects

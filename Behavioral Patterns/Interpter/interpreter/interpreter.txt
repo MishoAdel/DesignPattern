@@ -1,0 +1,6 @@
+Interpreter Design Pattern
+
+- Provides a way to evaluate a language grammar or an expression
+
+- Used when 1- you need to implement a simple language
+            2- searching for a string that match a pattern

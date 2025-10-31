@@ -1,0 +1,5 @@
+- Memento Design Pattern
+
+- It captures and externalizes object's internal state so that the object can be restored to this state later
+
+- Used when 1- you want to save the state of object to roll back for it

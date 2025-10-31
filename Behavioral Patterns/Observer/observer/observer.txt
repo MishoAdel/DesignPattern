@@ -1,0 +1,7 @@
+- Observer Design Pattern
+
+- Defines a one-to-many dependency between objects so that when one object changes its state, all or its dependents are notified and updated automatically
+
+- Used when 1- changing an object requires changing others
+            2- multiple object are dependent on the state of one object
+            3-

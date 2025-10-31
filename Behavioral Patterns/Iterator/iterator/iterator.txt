@@ -1,0 +1,5 @@
+Iterator Design Pattern
+
+- Provides a way to access the elements of an aggregate object sequentially without exposing its underlying presentation
+
+- Used when 1- you want to traverse through a collection and hide the implementation logic fr0m client program
